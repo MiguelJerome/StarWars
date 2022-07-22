@@ -37,4 +37,4 @@
 
 ##  ALL my ressources for Evaluation 08.1 List view Android Studio
 
-You can have access to the ressources of my Evaluation 08.1 List view Android Studio Web Page [this the link](https://github.com/MiguelJerome/StarWars) 
+You can have access to the ressources of my Starwars List view layount Android Studio Web Page [this the link](https://github.com/MiguelJerome/StarWars) 

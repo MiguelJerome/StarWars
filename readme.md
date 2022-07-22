@@ -12,24 +12,24 @@
 
 ### Project Ressources
 * main
-        - [main](../StarWars/app/src/main/)
+        - [main](https://github.com/MiguelJerome/StarWars/tree/main/app/src/main)
 
 # IMPORTANT FILES
 * main java
-        - [MainActivity.java](../StarWars/app/src/main/java/ca/collegelacite/starwars/MainActivity.java)
+        - [MainActivity.java](https://github.com/MiguelJerome/StarWars/blob/main/app/src/main/java/ca/collegelacite/starwars/MainActivity.java)
 * Personnage java
-        - [Personnage.java](../StarWars/app/src/main/java/ca/collegelacite/starwars/Personnage.java)  
+        - [Personnage.java](https://github.com/MiguelJerome/StarWars/blob/main/app/src/main/java/ca/collegelacite/starwars/Personnage.java)  
 * PersonnageAdapter java
-        - [PersonnageAdapter.java](../StarWars/app/src/main/java/ca/collegelacite/starwars/PersonnageAdapter.java)  
+        - [PersonnageAdapter.java](https://github.com/MiguelJerome/StarWars/blob/main/app/src/main/java/ca/collegelacite/starwars/PersonnageAdapter.java)  
 
-* main xml - [AndroidMainifest.xml](../StarWars/app/src/main/AndroidManifest.xml)   
+* main xml - [AndroidMainifest.xml](https://github.com/MiguelJerome/StarWars/blob/main/app/src/main/AndroidManifest.xml)   
 
-* ressource layout -[activity_main.xml](../StarWars/app/src/main/res/layout/activity_main.xml)
-* ressource layout -[personnage_list_item.xml](../StarWars/app/src/main/res/layout/personnage_list_item.xml)
+* ressource layout -[activity_main.xml](https://github.com/MiguelJerome/StarWars/blob/main/app/src/main/res/layout/activity_main.xml)
+* ressource layout -[personnage_list_item.xml](https://github.com/MiguelJerome/StarWars/blob/main/app/src/main/res/layout/personnage_list_item.xml)
 
 
-* personnages json -[personnages.json](../StarWars/app/src/main/assets/personnages.json)
-* values strings -[strings.xml](../StarWars/app/src/main/res/values/strings.xml)
+* personnages json -[personnages.json](https://github.com/MiguelJerome/StarWars/blob/main/app/src/main/assets/personnages.json)
+* values strings -[strings.xml](https://github.com/MiguelJerome/StarWars/blob/main/app/src/main/res/values/strings.xml)
 
 ##  Material Design 3
 
